@@ -1,0 +1,242 @@
+[
+{
+"name": "John",
+"age": 25,
+"hometown" : "Los Angeles",
+"interests" : [
+{"title" : "basketball", "why" : "its fun", "description" : "team sport" },
+{"title" : "painting", "why": "express creativity", "description" : "form of art"},
+{"title" : "chess", "why" : "its challenging", "description" : "board game" },
+{"title" : "hiking", "why" : "being outdoors", "description" : "outdoor exercise" },
+{"title" : "photography", "why" : "i like using cameras", "description" : "form of art" },
+{"title" : "networking", "why" : "enjoy meeting new people", "description" : "social activity" },
+{"title" : "travel", "why" : "visiting new places", "description" : "exploring" },
+{"title" : "gardening", "why" : "improving the landscape", "description" : "maintaining the yard" },
+{"title" : "language", "why" : "i can communicate to people from other places", "description" : "learning to speak new languages" },
+{"title" : "tennis", "why" : "i enjoy the competition", "description" : "competitive sport" }
+]
+},
+
+{
+"name":"Jane",
+"age": 26,
+"hometown" : "San Francisco",
+"interests" : [
+{"title" : "stand-up comedy", "why" : "i like entertaining people", "description" : "telling jokes in front of a crowd" },
+{"title" : "writing", "why" : "its a way to express myself", "description" : "putting my thoughts onto paper" },
+{"title" : "word searches", "why" : "its fun", "description" : "word puzzle" },
+{"title" : "jogging", "why" : "stay healthy", "description" : "running for long distances" },
+{"title" : "music", "why" : "hearing new songs", "description" : "listening " },
+{"title" : "billiards", "why" : "improving my skill", "description" : "shooting pool" },
+{"title" : "dancing", "why" : "fun activity with friends", "description" : "physical and social activity" },
+{"title" : "eating", "why" : "trying new foods", "description" : "tasting foods from different restaurants" },
+{"title" : "astronomy", "why" : "its interesting to learn about", "description" : "examining the night sky" },
+{"title" : "baking", "why" : "i like to eat cake", "description" : "cooking different breads and pastries" }
+
+
+]
+},
+
+{
+"name":"Jess",
+"age": 26,
+"hometown" : "Sacramento",
+"interests" : [
+{"title" : "writing", "why" : "it's a way to express myself", "description" : "putting my thoughts onto paper" },
+{"title" : "couponing", "why" : "i like finding good deals", "description" : "finding coupons for shopping" },
+{"title" : "karaoke", "why" : "it's fun to sing songs", "description" : "singing popular songs with friends" },
+{"title" : "jogging", "why" : "stay healthy", "description" : "running for long distances" },
+{"title" : "music", "why" : "hearing new songs", "description" : "listening " },
+{"title" : "bowling", "why" : "improving my skill", "description" : "individual sport and game" },
+{"title" : "poker", "why" : "i enjoy card games and gambling", "description" : "card game" },
+{"title" : "eating", "why" : "trying new foods", "description" : "tasting foods from different restaurants" },
+{"title" : "gardening", "why" : "improving the landscape", "description" : "maintaining the yard" },
+{"title" : "baking", "why" : "i like to eat cake", "description" : "cooking different breads and pastries" }
+
+
+]
+},
+
+{
+"name":"Steve",
+"age": 20,
+"hometown" : "Oakland",
+"interests" : [
+{"title" : "volleyball", "why" : "i like being part of a team", "description" : "competetive team sport" },
+{"title" : "fishing", "why" : "it's challenging", "description" : "catching fish outdoors" },
+{"title" : "camping", "why" : "it's nice to be away from the city", "description" : "living outdoors" },
+{"title" : "pottery", "why" : "i like to create things i can use", "description" : "creating things from clay" },
+{"title" : "movies", "why" : "it's fun to see new movies", "description" : "going to the cinema" },
+{"title" : "programming", "why" : "building new things", "description" : "computer activity" },
+{"title" : "blogging", "why" : "i enjoy sharing my thoughts", "description" : "writing articles" },
+{"title" : "rock climbing", "why" : "testing how high i can climb", "description" : "outdoor activity" },
+{"title" : "skiing", "why" : "its fun to go fast", "description" : "winter sport" },
+{"title" : "comic books", "why" : "i like reading about superheros", "description" : "stories about supoerheros" }
+
+
+]
+},
+
+{
+"name":"Chris",
+"age": 35,
+"hometown" : "San Diego",
+"interests" : [
+{"title" : "eating", "why" : "trying new foods", "description" : "tasting foods from different restaurants" },
+{"title" : "gardening", "why" : "improving the landscape", "description" : "maintaining the yard" },
+{"title" : "baking", "why" : "i like to eat cake", "description" : "cooking different breads and pastries" },
+{"title" : "pottery", "why" : "i like to create things i can use", "description" : "creating things from clay" },
+{"title" : "movies", "why" : "it's fun to see new movies", "description" : "going to the cinema" },
+{"title" : "music", "why" : "hearing new songs", "description" : "listening " },
+{"title" : "billiards", "why" : "improving my skill", "description" : "shooting pool" },
+{"title" : "dancing", "why" : "fun activity with friends", "description" : "physical and social activity" },
+{"title" : "skiing", "why" : "its fun to go fast", "description" : "winter sport" },
+{"title" : "painting", "why": "express creativity", "description" : "form of art"}
+
+
+]
+},
+
+{
+"name":"Anne",
+"age": 51,
+"hometown" : "Seattle",
+"interests" : [
+{"title" : "dancing", "why" : "fun activity with friends", "description" : "physical and social activity" },
+{"title" : "skiing", "why" : "its fun to go fast", "description" : "winter sport" },
+{"title" : "baking", "why" : "i like to eat cake", "description" : "cooking different breads and pastries" },
+{"title" : "stand-up comedy", "why" : "i like entertaining people", "description" : "telling jokes in front of a crowd" },
+{"title" : "hiking", "why" : "being outdoors", "description" : "outdoor exercise" },
+{"title" : "word searches", "why" : "it's fun", "description" : "word puzzle" },
+{"title" : "billiards", "why" : "improving my skill", "description" : "shooting pool" },
+{"title" : "writing", "why" : "it's a way to express myself", "description" : "putting my thoughts onto paper" },
+{"title" : "couponing", "why" : "i like finding good deals", "description" : "finding coupons for shopping" },
+{"title" : "painting", "why": "express creativity", "description" : "form of art"}
+
+
+]
+},
+
+{
+"name":"Eric",
+"age": 30,
+"hometown" : "Denver",
+"interests" : [
+{"title" : "dancing", "why" : "fun activity with friends", "description" : "physical and social activity" },
+{"title" : "biking", "why" : "its fun to go fast", "description" : "outdoor activity" },
+{"title" : "baking", "why" : "i like to eat cake", "description" : "cooking different breads and pastries" },
+{"title" : "stand-up comedy", "why" : "i like entertaining people", "description" : "telling jokes in front of a crowd" },
+{"title" : "kayaking", "why" : "being outdoors", "description" : "outdoor water activity" },
+{"title" : "word searches", "why" : "it's fun", "description" : "word puzzle" },
+{"title" : "video games", "why" : "improving my skill", "description" : "video and computer entertainment" },
+{"title" : "writing", "why" : "it's a way to express myself", "description" : "putting my thoughts onto paper" },
+{"title" : "podcasts", "why" : "learning new things about different topics", "description" : "audio entertainment" },
+{"title" : "fashion", "why": "try new clothes", "description" : "creative art"}
+
+
+]
+},
+
+{
+"name":"Elise",
+"age": 27,
+"hometown" : "Portland",
+"interests" : [
+{"title" : "camping", "why" : "it's nice to be away from the city", "description" : "living outdoors" },
+{"title" : "pottery", "why" : "i like to create things i can use", "description" : "creating things from clay" },
+{"title" : "movies", "why" : "it's fun to see new movies", "description" : "going to the cinema" },
+{"title" : "stand-up comedy", "why" : "i like entertaining people", "description" : "telling jokes in front of a crowd" },
+{"title" : "kayaking", "why" : "being outdoors", "description" : "outdoor water activity" },
+{"title" : "word searches", "why" : "it's fun", "description" : "word puzzle" },
+{"title" : "jogging", "why" : "stay healthy", "description" : "running for long distances" },
+{"title" : "music", "why" : "hearing new songs", "description" : "listening " },
+{"title" : "billiards", "why" : "improving my skill", "description" : "shooting pool" },
+{"title" : "dancing", "why" : "fun activity with friends", "description" : "physical and social activity" }
+
+
+]
+},
+
+{
+"name":"Paul",
+"age": 44,
+"hometown" : "Boston",
+"interests" : [
+{"title" : "video games", "why" : "improving my skill", "description" : "video and computer entertainment" },
+{"title" : "writing", "why" : "it's a way to express myself", "description" : "putting my thoughts onto paper" },
+{"title" : "podcasts", "why" : "learning new things about different topics", "description" : "audio entertainment" },
+{"title" : "stand-up comedy", "why" : "i like entertaining people", "description" : "telling jokes in front of a crowd" },
+{"title" : "eating", "why" : "trying new foods", "description" : "tasting foods from different restaurants" },
+{"title" : "gardening", "why" : "improving the landscape", "description" : "maintaining the yard" },
+{"title" : "baking", "why" : "i like to eat cake", "description" : "cooking different breads and pastries" },
+{"title" : "couponing", "why" : "i like finding good deals", "description" : "finding coupons for shopping" },
+{"title" : "karaoke", "why" : "it's fun to sing songs", "description" : "singing popular songs with friends" },
+{"title" : "jogging", "why" : "stay healthy", "description" : "running for long distances" }
+
+
+]
+},
+
+{
+"name":"Melissa",
+"age": 75,
+"hometown" : "Phoenix",
+"interests" : [
+{"title" : "music", "why" : "hearing new songs", "description" : "listening " },
+{"title" : "bowling", "why" : "improving my skill", "description" : "individual sport and game" },
+{"title" : "poker", "why" : "i enjoy card games and gambling", "description" : "card game" },
+{"title" : "eating", "why" : "trying new foods", "description" : "tasting foods from different restaurants" },
+{"title" : "gardening", "why" : "improving the landscape", "description" : "maintaining the yard" },
+{"title" : "baking", "why" : "i like to eat cake", "description" : "cooking different breads and pastries" },
+{"title" : "skiing", "why" : "its fun to go fast", "description" : "winter sport" },
+{"title" : "astronomy", "why" : "it's interesting to learn about", "description" : "examining the night sky" },
+{"title" : "writing", "why" : "it's a way to express myself", "description" : "putting my thoughts onto paper" },
+{"title" : "word searches", "why" : "its fun", "description" : "word puzzle" }
+
+
+]
+},
+
+{
+"name":"Mike",
+"age": 37,
+"hometown" : "Philadelphia",
+"interests" : [
+{"title" : "basketball", "why" : "it-s fun", "description" : "team sport" },
+{"title" : "painting", "why": "express creativity", "description" : "form of art"},
+{"title" : "chess", "why" : "it's challenging", "description" : "board game" },
+{"title" : "stand-up comedy", "why" : "i like entertaining people", "description" : "telling jokes in front of a crowd" },
+{"title" : "blogging", "why" : "i enjoy sharing my thoughts", "description" : "writing articles" },
+{"title" : "rock climbing", "why" : "testing how high i can climb", "description" : "outdoor activity" },
+{"title" : "skiing", "why" : "its fun to go fast", "description" : "winter sport" },
+{"title" : "astronomy", "why" : "it's interesting to learn about", "description" : "examining the night sky" },
+{"title" : "writing", "why" : "it's a way to express myself", "description" : "putting my thoughts onto paper" },
+{"title" : "word searches", "why" : "it's fun", "description" : "word puzzle" }
+
+
+]
+},
+
+{
+
+
+"name":"Will",
+"age": 42,
+"hometown" : "Las Vegas",
+"interests" : [
+{"title" : "basketball", "why" : "it-s fun", "description" : "team sport" },
+{"title" : "painting", "why": "express creativity", "description" : "form of art"},
+{"title" : "chess", "why" : "it's challenging", "description" : "board game" },
+{"title" : "stand-up comedy", "why" : "i like entertaining people", "description" : "telling jokes in front of a crowd" },
+{"title" : "blogging", "why" : "i enjoy sharing my thoughts", "description" : "writing articles" },
+{"title" : "rock climbing", "why" : "testing how high i can climb", "description" : "outdoor activity" },
+{"title" : "baking", "why" : "i like to eat cake", "description" : "cooking different breads and pastries" },
+{"title" : "stand-up comedy", "why" : "i like entertaining people", "description" : "telling jokes in front of a crowd" },
+{"title" : "hiking", "why" : "being outdoors", "description" : "outdoor exercise" },
+{"title" : "word searches", "why" : "it's fun", "description" : "word puzzle" }
+
+
+]
+}
+]
+
